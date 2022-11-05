@@ -10,10 +10,12 @@ cells it interacts with back to ground, allowing for new plant cells to grow.
 Made with Python 3.7 and appropriate Pygame module. Download FieldFire.py and run with Python, make sure Pygame is installed as well.
 
 ## Parameters
-| size | the size of each cell (default 8) |
-| fps | the frame rate limit (default 30) |
-| burnChance | the burn probability (default 0.00001) |
-| growChance | the growth probability (default 0.01) |
+```
+size - the size of each cell (default 8)
+fps - the frame rate limit (default 30)
+burnChance - the burn probability (default 0.00001)
+growChance - the growth probability (default 0.01)
+```
 
 ## Cellular Automata
 ![Field fire cellular automata running](running.gif?raw=true)
